@@ -1,5 +1,5 @@
 # helpers for JobDone Projects
 Helpers for JobDoneProjects
 
-## HELPER1 - Helper basé sur la génération d'un projet d'archetype Maven de base.
-Ce Helper est un parser d'url pour le ministère de l'éducation nationale qui récupère les données des établissements scolaires et leurs informations de géolocalisation.
+## HELPER1 - jobdone-rp Helper d'aide à la génération d'une API d'injection de données Sample .
+Ce Helper est un parser d'url pour le framework Mockaroo.
