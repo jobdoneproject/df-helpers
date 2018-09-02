@@ -1,0 +1,26 @@
+{
+  "name": "jobdone-rp",
+  "version": "1.0.4",
+  "description": "Request-Promise for JobDoneProjects",
+  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/mocha": "^5.2.5",
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.3",
+    "typescript-cli": "^0.1.0",
+    "typescript-compiler": "^1.4.1-2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha \"./test/*.test.ts\""
+  },
+  "keywords": [
+    "JobDone"
+  ],
+  "author": "Richard Lab",
+  "license": "ISC"
+}

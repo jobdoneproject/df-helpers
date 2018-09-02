@@ -1,0 +1,7 @@
+*.tgz
+*lock.json
+.nyc_output*
+symbols.json
+node_modules
+coverage
+dist

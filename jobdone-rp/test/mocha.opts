@@ -1,0 +1,4 @@
+--reporter spec
+--compilers ts:ts-node/register 
+--recursive
+--colors
