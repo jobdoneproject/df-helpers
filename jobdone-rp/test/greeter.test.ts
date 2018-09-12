@@ -1,4 +1,4 @@
-import { sayHello } from './../src/hello-world';
+import { sayHello } from '../src/greeter';
 
 import * as mocha from 'mocha';
 import * as chai from 'chai';

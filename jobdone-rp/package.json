@@ -1,7 +1,7 @@
 {
   "name": "jobdone-rp",
-  "version": "1.0.4",
-  "description": "Request-Promise for JobDoneProjects",
+  "version": "1.0.9",
+  "description": "Request-Promise Helpers for the JobDone",
   "main": "index.js",
   "types": "dist/index.d.ts",
   "dependencies": {
@@ -9,12 +9,16 @@
     "@types/mocha": "^5.2.5",
     "chai": "^4.1.2",
     "mocha": "^5.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
     "ts-node": "^7.0.1",
     "typescript": "^3.0.3",
     "typescript-cli": "^0.1.0",
     "typescript-compiler": "^1.4.1-2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/es6-promise": "^3.3.0"
+  },
   "scripts": {
     "test": "mocha \"./test/*.test.ts\""
   },
