@@ -1,6 +1,6 @@
 {
   "name": "jobdone-rp",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Request-Promise Helpers for the JobDone",
   "main": "index.js",
   "types": "dist/index.d.ts",
